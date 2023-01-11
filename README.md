@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar Niroula
-- 👀 I’m interested in learning to code in different languages. But Java and C++ certainly interests me!
-- 🌱 I’m currently learning python for data science and machine learning.
+- 👀 I’m interested in learning to code in different languages. But Java and C++ certainly interests me.
+- Well, changing my mind on what should I pick, but I'm getting some tastes.
 - 📫 You can reach me at antihacks36@gmail.com
 
 <!---
