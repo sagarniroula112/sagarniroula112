@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagar Niroula
-- 👀 I’m interested in learning to code in different languages. But Java and C++ certainly interests me.
-- Well, changing my mind on what should I pick, but I'm getting some tastes.
-- 📫 You can reach me at antihacks36@gmail.com
+- 👀 I’m interested in learning to code in different languages.
+- 🤑 Aspiring JS and Backend Development.
+- 📫 You can reach me at sagarniroula112@gmail.com
 
 <!---
 sagarniroula112/sagarniroula112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
