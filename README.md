@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sagar Niroula
 - 👀 I’m interested in learning to code in different languages.
-- 🤑 Aspiring JS and Backend Development.
+- 🤑 Aspiring Java Backend Development
+- 😊 MERN development as self-interest
 - 📫 You can reach me at sagarniroula112@gmail.com
 
 <!---
