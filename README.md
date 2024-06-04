@@ -5,7 +5,7 @@
 - 📫 You can reach me at sagarniroula112@gmail.com
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/sagarniroula112=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sagarniroula112)](https://git.io/streak-stats)
 
 <!---
 sagarniroula112/sagarniroula112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
