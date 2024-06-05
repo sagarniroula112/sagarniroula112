@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sagarniroula112)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=NirajanAcharya666)
+![](https://komarev.com/ghpvc/?username=sagarniroula112)
 
 <!---
 sagarniroula112/sagarniroula112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
