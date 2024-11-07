@@ -5,9 +5,6 @@
 - 📫 You can reach me at sagarniroula112@gmail.com
 - 💥 Nepal is amazing!
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sagarniroula112)](https://git.io/streak-stats)
-
 ![](https://komarev.com/ghpvc/?username=sagarniroula112)
 
 <!---
